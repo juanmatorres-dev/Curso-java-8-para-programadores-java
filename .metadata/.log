@@ -10440,3 +10440,90 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-16 19:07:56.639
 !MESSAGE Cannot run program "\usr\bin\git" (in directory "\usr\bin"): CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:16:49.699
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/2020-06, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:16:50.549
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/epp/packages/2020-06/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:16:51.436
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/2020-06/202006171000/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:16:53.202
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/2020-09, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:16:54.020
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/epp/packages/2020-09/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:16:54.836
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/epp/packages/2020-09/202009101200, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:16:56.221
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/2020-09/202009161000/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:14.963
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.16, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:15.794
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.16/categories, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:16.070
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.16/R-4.16-202006040540/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:17.137
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.17, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:17.940
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.17/categories, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:18.219
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.17/R-4.17-202009021800, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:19.388
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/updates/milestone/latest, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:21.257
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/drops/milestone/S20221005-083158-1.27.0-M1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:32.350
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/2020-06, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:33.165
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/epp/packages/2020-06/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:33.962
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/2020-06/202006171000/artifacts.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:35.029
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/2020-09, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:35.855
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/epp/packages/2020-09/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:36.668
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/epp/packages/2020-09/202009101200, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:38.016
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/2020-09/202009161000/artifacts.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:49.255
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/drops/milestone/S20220413-080151-1.25.0-M1a/artifacts.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:50.116
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.16, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:50.383
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.16/R-4.16-202006040540/artifacts.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:51.290
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.17, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:51.564
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/eclipse/updates/4.17/R-4.17-202009021800/artifacts.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:53.088
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/updates/milestone/latest, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-16 19:17:54.152
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/drops/milestone/S20221005-083158-1.27.0-M1/artifacts.xml.xz, see CVE-2021-41033. Consider using https instead.
