@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Openwebinars\Desktop"/>
 	<item key="delegateUpdating" value="false"/>
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="1"/>
+	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-11"/>
+	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="jdk-13.0.2"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="layout" value="2"/>
 		<item key="group_libraries" value="true"/>
@@ -132,6 +135,7 @@
 		<item key="SkipNull" value="false"/>
 		<item key="FinalModifier" value="false"/>
 		<item key="LimitValue" value="10"/>
+		<item key="Objects.equals &amp; Objects.hash" value="true"/>
 	</section>
 	<section name="AddUnimplementedConstructorsDialog">
 		<item key="OmitCallToSuper" value="false"/>

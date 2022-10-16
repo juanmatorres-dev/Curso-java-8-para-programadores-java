@@ -1,5 +1,5 @@
 /**
- * Clase Rectángulo
+ * Clase RectÃ¡ngulo
  */
 package polimorfismo;
 
@@ -46,12 +46,12 @@ public class Rectangulo {
 	
 	
 	public float getArea() {
-		System.out.println("Area de un rectángulo");
+		System.out.println("Area de un rectï¿½ngulo");
 		return base*altura;
 	}
 	
 	public float getPerimetro() {
-		System.out.println("Perímetro de un rectángulo");
+		System.out.println("Perï¿½metro de un rectï¿½ngulo");
 		return (base*2) + (altura*2);
 	}
 	

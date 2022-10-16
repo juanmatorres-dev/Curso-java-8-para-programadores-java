@@ -1,5 +1,5 @@
 /**
- * Clase Cuadrado (es un tipo de Rect·ngulo)
+ * Clase Cuadrado (es un tipo de Rect√°ngulo)
  */
 package polimorfismo;
 
