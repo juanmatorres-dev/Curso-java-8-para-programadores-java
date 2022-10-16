@@ -1,2 +1,6 @@
 .metadata/
 .recommenders/
+*.index
+*.dat
+*.resources
+*.xmi
