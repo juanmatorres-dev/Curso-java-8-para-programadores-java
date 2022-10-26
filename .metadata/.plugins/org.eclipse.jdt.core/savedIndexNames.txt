@@ -1,5 +1,4 @@
 INDEX VERSION 1.131+C:\WorkSpaces\OpenWebinars\Curso-java-8-para-programadores-java\.metadata\.plugins\org.eclipse.jdt.core
-153696530.index
 4155425010.index
 1865797976.index
 335619931.index

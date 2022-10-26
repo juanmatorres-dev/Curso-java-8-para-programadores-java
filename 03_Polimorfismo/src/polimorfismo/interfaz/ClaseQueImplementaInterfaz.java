@@ -8,5 +8,7 @@ package polimorfismo.interfaz;
  *
  */
 public class ClaseQueImplementaInterfaz implements Hija {
-
+	public void saludar(String s) {
+		System.out.println(s + " desde la clase");
+	}
 }
