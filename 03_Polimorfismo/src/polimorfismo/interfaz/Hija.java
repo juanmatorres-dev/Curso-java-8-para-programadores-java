@@ -12,7 +12,8 @@ package polimorfismo.interfaz;
 public interface Hija extends Base {
 	
 	default public void saludar(String s) {
+		Base.super.saludar(s);
 		System.out.println(s + " desde Hija");
 	}
-
+	
 }
