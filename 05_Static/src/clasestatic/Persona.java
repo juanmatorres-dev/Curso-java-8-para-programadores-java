@@ -1,10 +1,10 @@
 /**
- * Una clase top-level no puede ser estática...
+ * Una clase top-level no puede ser estï¿½tica...
  */
 
 package clasestatic;
 
-//Una clase "top-level" no puede ser estática
+//Una clase "top-level" no puede ser estï¿½tica
 //public static class Persona {
 //	
 //}

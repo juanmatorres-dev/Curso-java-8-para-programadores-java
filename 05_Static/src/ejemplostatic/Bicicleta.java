@@ -8,7 +8,7 @@ public class Bicicleta {
 	private int id;
 	
 	
-	//Variable estática
+	//Variable estï¿½tica
 	//Compartida para todas las instancias.
 	private static int numeroDeBiciletas = 0;
 	
