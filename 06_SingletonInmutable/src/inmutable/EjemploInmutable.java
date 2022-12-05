@@ -16,7 +16,7 @@ public class EjemploInmutable {
 	 */
 	public static void main(String[] args) {
 		
-		PersonaInmutable yo = new PersonaInmutable("Luis Miguel", "López Magaña", LocalDate.of(1982, 9, 18));
+		PersonaInmutable yo = new PersonaInmutable("Luis Miguel", "Lï¿½pez Magaï¿½a", LocalDate.of(1982, 9, 18));
 		
 		//No tenemos forma de modificar las propiedades
 		//Solo de acceder a ellas en modo lectura

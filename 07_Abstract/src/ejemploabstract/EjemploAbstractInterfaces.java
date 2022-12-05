@@ -1,5 +1,5 @@
 /**
- * EJEMPLO DE USO DE CLASES Y MÉTODOS ABSTRACTOS
+ * EJEMPLO DE USO DE CLASES Y Mï¿½TODOS ABSTRACTOS
  */
 package ejemploabstract;
 
@@ -28,7 +28,7 @@ public class EjemploAbstractInterfaces {
 		//Podemos usar el Circulo con una referencia
 		//de tipo ObjetoGrafico
 		ObjectoGrafico o = c;
-		System.out.println("Dibujando un círculo desde un objeto gráfico");
+		System.out.println("Dibujando un cï¿½rculo desde un objeto grï¿½fico");
 		o.dibujar();
 		
 		

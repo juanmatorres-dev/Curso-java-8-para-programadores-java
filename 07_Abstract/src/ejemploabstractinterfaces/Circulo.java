@@ -36,20 +36,20 @@ public class Circulo extends ObjectoGrafico{
 	@Override
 	public void rotar() {
 		//No hay que hacer nada.
-		//Al rotar un círculo se queda igual
+		//Al rotar un cï¿½rculo se queda igual
 		
 	}
 
 	@Override
 	public void voltearHorizontal() {
 		//No hay que hacer nada.
-		//Al volter horizontalmente un círculo se queda igual
+		//Al volter horizontalmente un cï¿½rculo se queda igual
 	}
 
 	@Override
 	public void voltearVertical() {
 		//No hay que hacer nada.
-		//Al volter verticalmente un círculo se queda igual		
+		//Al volter verticalmente un cï¿½rculo se queda igual		
 	}
 	
 
